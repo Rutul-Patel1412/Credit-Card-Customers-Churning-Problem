@@ -1,0 +1,2 @@
+# Credit-Card-Customers-Churning-Problem
+The churning customer means the customer which stop doing business with an entity. The "Credit Card Customers Churning Problem" is the project which tries to predict the customer who is going to leave the credit card service. Thus, bank can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
